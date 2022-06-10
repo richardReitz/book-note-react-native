@@ -1,6 +1,11 @@
 # Book Note
 Note de livros a serem lidos. Feito em exercício do curso de React Native, utilizando Realm como banco de dados offline.
 
+# Tecnologias utilizadas:
+  * React Native
+  * RealmDB
+  * Styled Components
+
 # Img
 <div align="center">
   <img src="https://user-images.githubusercontent.com/93951962/161286815-5d35211f-bb46-47a7-875f-696f88ea02c0.png" height="500px" />
